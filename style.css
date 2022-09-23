@@ -1,0 +1,58 @@
+.entnumber{
+margin-top: 10vh;
+margin-left: 18vw;
+height: 20rem;
+width: 50rem;
+background-color: rgb(147, 244, 244);
+
+
+    
+}
+body{
+    margin: 0px;
+    background-color: rgb(216, 231, 226);
+}
+#number{
+    height: 30px;
+    margin: 50px;
+    margin-left: 5vw;
+}
+.ans{
+    height: 50px;
+    width: 220px;
+    background-color: brown;
+    margin-top: 80px;
+    margin-left: 21vw;
+    text-decoration: solid;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid blue;
+    border-radius: 5px;
+    font-weight: 30px;
+
+
+
+}
+.calc{
+    display: flex;
+
+}
+.material-symbols-outlined{
+    size: 50px;
+    margin-top: 53px;
+}
+.button{
+ margin-left: 26vw;
+ font-size: large;
+ background-color: teal;
+ 
+ border-radius: 4px;
+ cursor: pointer;
+
+}
+.button:hover{
+    background-color: beige;
+}
+.ans.innerText{
+    font-weight: 200px;
+}
