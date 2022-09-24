@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.page{
+
+    height: 70vh;
+    width: 80vw;
+    background-color: rgb(245, 236, 109);
+    margin-left: 9vw;
+    padding-top:45px ;
+}
+
+.eqn{
+    margin-left:9vw;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 13vh;
+    width: 60vw;
+    background-color:  rgb(245, 236, 109);
+}
+.btn{
+    margin-left: 36vw;
+    margin-top: 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.btn:hover{
+    background-color: blanchedalmond;
+    transform: scale(1.2);
+}
+
+.result{
+    height: 10vh;
+    width: 40vw;
+    background-color: blueviolet;
+    margin-left: 27%;
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ color: bisque;
+ font-size: 20px;
+ border-radius: 6px;
+ box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+}
+.a{
+    background-color: bisque;
+}
+.b{
+    background-color: bisque;
+    
+}
+.c{
+    background-color: bisque;
+    
+}
