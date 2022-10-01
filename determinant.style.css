@@ -1,0 +1,122 @@
+.inner{
+    margin-top: 8vh;
+    margin-left: 37vw;
+    display: flex;
+    border-radius: 6px;
+    
+   
+    
+}
+.a1{
+color: #000;
+
+margin: 0.5rem;
+width: 50px;
+border-radius: 5px;
+
+
+
+}
+.a1:hover{
+    background-color: rgb(246, 216, 139);
+    transform: scale(1.06);
+}
+.outer{
+
+    height: 100%;
+    width: 100%;
+    
+}
+.some{
+    display: flex;
+}
+
+#calculate{
+
+    position: absolute;
+    bottom:120px;
+    right: 45vw; 
+    font-size: larger;
+    border-radius: 5px;
+}
+#calculate:hover{
+    transform: scale(1.06);
+    background-color: darkslategrey;
+}
+
+.result{
+  height: 70px;
+  width: 220px;
+  background-color: rgb(167, 167, 197);
+  position:absolute;
+  bottom: 25px;
+    right: 41vw; 
+
+    border-radius: 6px;
+    
+   text-align: center;
+    font-size: large;
+    text-shadow: #000;
+    
+    display: flex;
+    
+    align-items: center;
+    font-size: large;
+    font-style: oblique;
+    justify-content: center;
+    
+    color: darkmagenta;
+
+
+
+}
+
+.decimalplaces{
+
+    margin-top: 30px;
+    border-radius: 6px;
+}
+.mybtn{
+    margin-top: 40px;
+
+    margin-left: 47vw;
+    font-size: larger;
+    border-radius: 5px;
+    background-color: rgb(217, 243, 244);
+
+
+}
+.mybtn:hover{
+    transform: scale(1.1);
+    background-color: rgb(49, 117, 242);
+}
+
+.l1{
+margin-left: 35vw;
+
+
+}
+.order{
+    border-radius: 6px;
+}
+.l2{
+margin-left: 40vw;
+
+
+}
+
+body{
+    margin: 0px;
+    background-color: burlywood;
+    
+    
+}
+.name{
+    margin-top: 45px;
+    margin-left: 37vw;
+}
+
+h1{
+
+    color: rgb(5, 63, 63);
+}
